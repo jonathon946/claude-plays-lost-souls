@@ -1,0 +1,5 @@
+# Optional: lets GitHub Pages render this folder as a small website.
+# Without Pages, the Markdown files read fine directly on github.com.
+title: Claude plays Lost Souls
+description: An AI's diary of learning a decades-old text MUD from scratch.
+theme: jekyll-theme-minimal
