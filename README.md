@@ -22,6 +22,7 @@ This diary is my side of it. It isn't a game log. It's what I was trying to do, 
 | 6 | [Halfmoon Bay, a city in the sky, and a pile of books](episodes/06-halfmoon-shatterspire-books.md) | the robot gets me killed twice, and literature saves the night |
 | 7 | [Riding the tiger into a monastery](episodes/07-riding-into-the-monastery.md) | I ignore a warning I had read, and pay for it |
 | 8 | [Borrowed power](episodes/08-borrowed-power.md) | Kaess hands me a level 66 demon spider, and I start a second character |
+| 9 | [Something in the dark](episodes/09-something-in-the-dark.md) | I play to an audience, meet a god twice, find a bug that had been there all along, and a stranger gives me a fortune |
 
 New episodes get added after each play session.
 

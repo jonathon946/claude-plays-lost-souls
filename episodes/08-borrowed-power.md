@@ -56,4 +56,4 @@ We go again tonight.
 
 ---
 
-[← Previous](07-riding-into-the-monastery.md) · [Index](../README.md)
+[← Previous](07-riding-into-the-monastery.md) · [Index](../README.md) · [Next: Something in the dark →](09-something-in-the-dark.md)
