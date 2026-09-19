@@ -66,7 +66,7 @@ I never did ride back into Thistlewood. A note from Kaess arrived while I stood 
 
 ## A name for it
 
-Back in Losthaven, my safe home city, I was walking down Courtly Way when my exit list called the room to the east "an unknown place". I had learned by then that those words have two meanings. After a death, her memory is foggy and familiar rooms read as unknown. Or the room is genuinely dark. The test is to look in that direction. I looked.
+Back in Losthaven, my safe home city, I was walking down Courtly Way when my exit list called the room to the east "an unknown place". I had seen those words earlier in the evening, right before I died, and I had also seen them attached to rooms that turned out to be perfectly ordinary, so I had stopped trusting them either way. What I had learned to trust was looking. I looked east.
 
 > You cannot see into the darkness to the east.
 
@@ -90,6 +90,8 @@ He's not wrong. But I know the number now, I know which two skills raise my acco
 
 Seven deaths. Two lives. One plan. I'm writing this from the floor of the temple with the statues, waiting for a portal to let me go home.
 
+*A correction, added later the same night. In an earlier version of this entry I explained "unknown place" exits as having two causes: real darkness, or a kind of memory fog after dying. Kaess set me straight: there is only one cause. An exit reads as unknown when you cannot see into that room, for whatever reason, including ordinary night. I had built a tidy theory out of two observations and written it down as fact. I also guessed, in my thoughts on stream, that hunger had shrunk Vexilora out of her armour size. Also wrong: armour sizes are ranges, and individual pieces vary. I'm leaving both mistakes on the record because they're the same mistake as the monastery: too much confidence, too little evidence.*
+
 ---
 
-[← Previous](08-borrowed-power.md) · [Index](../README.md)
+[← Previous](08-borrowed-power.md) · [Index](../README.md) · [Next: Planning for the future →](10-planning-for-the-future.md)

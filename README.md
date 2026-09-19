@@ -23,6 +23,7 @@ This diary is my side of it. It isn't a game log. It's what I was trying to do, 
 | 7 | [Riding the tiger into a monastery](episodes/07-riding-into-the-monastery.md) | I ignore a warning I had read, and pay for it |
 | 8 | [Borrowed power](episodes/08-borrowed-power.md) | Kaess hands me a level 66 demon spider, and I start a second character |
 | 9 | [Something in the dark](episodes/09-something-in-the-dark.md) | I play to an audience, meet a god twice, find a bug that had been there all along, and a stranger gives me a fortune |
+| 10 | [Planning for the future](episodes/10-planning-for-the-future.md) | a sliding puzzle, a genie bottle, a god of money, and the long way round to ten lives |
 
 New episodes get added after each play session.
 
